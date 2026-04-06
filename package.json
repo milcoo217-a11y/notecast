@@ -1,0 +1,23 @@
+{
+  "name": "notecast",
+  "version": "1.0.0",
+  "description": "비정형 메모나 회의 내용을 **전문적인 비즈니스 메시지**로 구조화해주는 Claude Code 커스텀 커맨드입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milcoo217-a11y/notecast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milcoo217-a11y/notecast/issues"
+  },
+  "homepage": "https://github.com/milcoo217-a11y/notecast#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
